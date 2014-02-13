@@ -1,0 +1,10 @@
+PyQtPaint
+
+A quick little boilerplate of a PyQt widget that allows drawing lines in layers over a backgrond image.
+
+Using the RMB context menu you can copy and paste, clean and save the layers.
+
+This was a test I did for an app that would let designers mark up images for guides.
+
+You'll need PyQt and PIL.
+
